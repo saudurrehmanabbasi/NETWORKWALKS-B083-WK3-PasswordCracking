@@ -64,19 +64,43 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 
 ## 🖼️ Evidence
 
-| Step | Screenshot |
-|---|---|
-| Johnny configured | screenshots/johnny-settings.png |
-| Hash extracted from PDF | screenshots/hash-extracted.png |
-| Hash loaded into Johnny | screenshots/hash-loaded.png |
-| Password cracked (Lab 1) | screenshots/password-cracked.png |
-| PDF before unlocking | screenshots/locked-pdf.png |
-| PDF after unlocking | screenshots/unlocked-pdf.png |
-| Hash Calculator (Lab 2) | screenshots/hash-calculator.png |
-| Password Cracker (Lab 2) | screenshots/password-cracker.png |
-| Password cracked (Lab 2) | screenshots/password-cracked1.png |
-| PDF before unlocking (Lab 2) | screenshots/locked-pdf1.png |
-| PDF after unlocking (Lab 2) | screenshots/unlocked-pdf1.png |
+<summary><b>Lab 1 — JTR + Johnny screenshots</b></summary>
+
+**Johnny configured**
+![Johnny configured](screenshots/johnny-settings.png)
+
+**Hash extracted from PDF**
+![Hash extracted from PDF](screenshots/hash-extracted.png)
+
+**Hash loaded into Johnny**
+![Hash loaded into Johnny](screenshots/hash-loaded.png)
+
+**Password cracked**
+![Password cracked](screenshots/password-cracked.png)
+
+**PDF before unlocking**
+![PDF before unlocking](screenshots/locked-pdf.png)
+
+**PDF after unlocking**
+![PDF after unlocking](screenshots/unlocked-pdf.png)
+
+
+<summary><b>Lab 2 — Networkwalks Tools screenshots</b></summary>
+
+**Hash Calculator**
+![Hash Calculator](screenshots/hash-calculator.png)
+
+**Password Cracker**
+![Password Cracker](screenshots/password-cracker.png)
+
+**Password cracked**
+![Password cracked](screenshots/password-cracked1.png)
+
+**PDF before unlocking**
+![PDF before unlocking](screenshots/locked-pdf1.png)
+
+**PDF after unlocking**
+![PDF after unlocking](screenshots/unlocked-pdf1.png)
 
 ---
 
