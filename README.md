@@ -66,17 +66,17 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 
 | Step | Screenshot |
 |---|---|
-| Johnny configured | `screenshots/johnny-settings.png` |
-| Hash extracted from PDF | `screenshots/hash-extracted.png` |
-| Hash loaded into Johnny | `screenshots/hash-loaded.png` |
-| Password cracked (Lab 1) | `screenshots/password-cracked.png` |
-| PDF before unlocking | `screenshots/locked-pdf.png` |
-| PDF after unlocking | `screenshots/unlocked-pdf.png` |
-| Hash Calculator (Lab 2) | `screenshots/hash-calculator.png` |
-| Password Cracker (Lab 2) | `screenshots/password-cracker.png` |
-| Password cracked (Lab 2) | `screenshots/password-cracked1.png` |
-| PDF before unlocking (Lab 2) | `screenshots/locked-pdf1.png` |
-| PDF after unlocking (Lab 2) | `screenshots/unlocked-pdf1.png` |
+| Johnny configured | screenshots/johnny-settings.png |
+| Hash extracted from PDF | screenshots/hash-extracted.png |
+| Hash loaded into Johnny | screenshots/hash-loaded.png |
+| Password cracked (Lab 1) | screenshots/password-cracked.png |
+| PDF before unlocking | screenshots/locked-pdf.png |
+| PDF after unlocking | screenshots/unlocked-pdf.png |
+| Hash Calculator (Lab 2) | screenshots/hash-calculator.png |
+| Password Cracker (Lab 2) | screenshots/password-cracker.png |
+| Password cracked (Lab 2) | screenshots/password-cracked1.png |
+| PDF before unlocking (Lab 2) | screenshots/locked-pdf1.png |
+| PDF after unlocking (Lab 2) | screenshots/unlocked-pdf1.png |
 
 ---
 
