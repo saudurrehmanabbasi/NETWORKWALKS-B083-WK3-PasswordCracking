@@ -1,4 +1,4 @@
-# 🔎 Cybersecurity Internship — Password Auditing Labs
+# 🔎 Cybersecurity Internship — Password Cracking Labs
 
 ![Program](https://img.shields.io/badge/Program-Cybersecurity%20Internship-6C63FF?style=flat-square)
 ![Week](https://img.shields.io/badge/Week-3-FF6B6B?style=flat-square)
@@ -14,7 +14,7 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 
 | | |
 |---|---|
-| **Intern** | [Your Name] |
+| **Intern** | Saud Ur Rehman Abbasi |
 | **Program** | Networkwalks |
 | **Mentor** | Waqas Karim (CCIE) |
 | **Week** | 3 |
@@ -25,14 +25,13 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 
 ## 🗂️ Labs
 
-<details>
 <summary><b>Lab 1 — John the Ripper + Johnny GUI</b></summary>
 
 **Goal:** Recover the password on a protected PDF using John the Ripper and its GUI front-end, Johnny.
 
 **Tools:**
-- John the Ripper 1.9.0-jumbo-1
-- Johnny GUI 2.2
+- John the Ripper
+- Johnny GUI
 - PDF hash extractor
 
 **Steps:**
@@ -44,9 +43,7 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 
 **Outcome:** `good-luck`
 
-</details>
 
-<details>
 <summary><b>Lab 2 — Networkwalks Online Tools</b></summary>
 
 **Goal:** Recover the password on a protected PDF using Networkwalks' online hash calculator and password cracker.
@@ -62,7 +59,6 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 
 **Outcome:** `password1`
 
-</details>
 
 ---
 
@@ -70,8 +66,6 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 
 | Step | Screenshot |
 |---|---|
-| JTR downloaded | `screenshots/jtr-download.png` |
-| Johnny GUI installed | `screenshots/johnny-install.png` |
 | Johnny configured | `screenshots/johnny-settings.png` |
 | Hash extracted from PDF | `screenshots/hash-extracted.png` |
 | Hash loaded into Johnny | `screenshots/hash-loaded.png` |
@@ -81,6 +75,7 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 | Hash Calculator (Lab 2) | `screenshots/hash-calculator.png` |
 | Password Cracker (Lab 2) | `screenshots/password-cracker.png` |
 | Password cracked (Lab 2) | `screenshots/password-cracked1.png` |
+| PDF before unlocking (Lab 2) | `screenshots/locked-pdf1.png` |
 | PDF after unlocking (Lab 2) | `screenshots/unlocked-pdf1.png` |
 
 ---
@@ -89,8 +84,8 @@ Personal lab notes from my cybersecurity internship, covering hands-on password 
 
 | Lab | Flag |
 |---|---|
-| Lab 1 — JTR + Johnny | `[your_flag_here]` |
-| Lab 2 — Networkwalks Tools | `[your_flag_here]` |
+| Lab 1 — JTR + Johnny | nw{cybersecurity_flag_captured_2608} |
+| Lab 2 — Networkwalks Tools | nw{networkwalks_flag1_jtr_270521_1} |
 
 ---
 
@@ -111,15 +106,6 @@ Both labs cracked their target passwords (`good-luck`, `password1`) using a simp
 
 ---
 
-## 🧰 Commands Reference
-
-    john --wordlist=rockyou.txt hash.txt
-    john --show hash.txt
-
-> Use only against hashes and systems you're authorized to test.
-
----
-
 ## 📎 Resources
 
 | Resource | Link |
@@ -127,19 +113,6 @@ Both labs cracked their target passwords (`good-luck`, `password1`) using a simp
 | John the Ripper | https://www.openwall.com/john/ |
 | Johnny GUI | https://openwall.info/wiki/john/johnny |
 | Networkwalks | https://networkwalks.com/ |
-
----
-
-## 🙌 Acknowledgments
-
-Thanks to **Waqas Karim (CCIE)** and the **Networkwalks** team for guidance throughout this internship.
-
----
-
-## 📇 Contact
-
-- LinkedIn: [your LinkedIn URL]
-- GitHub: [your GitHub URL]
 
 ---
 
